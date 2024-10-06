@@ -1,1 +1,1 @@
-# single-price-Grid-component
+# calculator
